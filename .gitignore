@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.venv-*/
+*.egg-info/
+results/*
+!results/.gitkeep
+!results/pi_actor_critic_appropo_seed96656_long.png
+!results/pi_actor_critic_mixture_seed96656_long.png
